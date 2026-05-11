@@ -1,0 +1,42 @@
+<!-- BUILDS -->
+<section class="section builds reveal" id="builds">
+    <h2>Le mie Build</h2>
+
+    <div class="grid">
+        <div class="card reveal">
+            <img src="img/Build/Build1.jpg">
+            <h3>Container</h3>
+            <p>Struttura moderna minimal.</p>
+        </div>
+
+        <div class="card reveal">
+            <img src="img/Build/Build2.jpg">
+            <h3>Stanza del pianoforte</h3>
+            <p>Interno elegante e dettagliato.</p>
+        </div>
+
+        <div class="card reveal">
+            <img src="img/Build/Build3.jpg">
+            <h3>Nascondino segreto</h3>
+            <p>Ambiente bunker RP.</p>
+        </div>
+
+        <div class="card reveal">
+            <img src="img/Build/Build4.jpg">
+            <h3>Camera moderna</h3>
+            <p>Appartamento RP.</p>
+        </div>
+
+        <div class="card reveal">
+            <img src="img/Build6.jpg">
+            <h3>Chesa gotica</h3>
+            <p>Design pulito e realistico.</p>
+        </div>
+
+        <div class="card reveal">
+            <img src="img/Build5.jpg">
+            <h3>Bar museo</h3>
+            <p>Spazio immersivo artistico.</p>
+        </div>
+    </div>
+</section>
